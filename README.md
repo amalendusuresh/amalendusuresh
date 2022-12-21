@@ -17,6 +17,8 @@
 
 📄 Know about my experiences www.linkedin.com/in/amalendu-s-23a680130
 
-⚡ Tweet me on @palakkatil
+⚡ Tweet me on https://twitter.com/palakkatil
 
-🎨 Read my articles on medium.com/@amalenduvishnu
+🎨 Read my articles on https://medium.com/@amalenduvishnu
+
+
