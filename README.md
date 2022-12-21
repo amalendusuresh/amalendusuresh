@@ -1,7 +1,7 @@
 
 # Hi, I’m Amalendu Suresh
 # A passionate blockchain developer
-# Working as Crypto Research and Development Analyst
+**Working as Crypto Research and Development Analyst**
 
 👀 I’m interested in Blockchain, Cyber Security, NFT, Hyperledger fabric, Ethereum, DLTs
 
