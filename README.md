@@ -2,7 +2,7 @@
 # Welcome to My GitHub! 👋
 
 ## About Me:
-I'm Amalendu Suresh, a seasoned blockchain developer specializing in building decentralized applications (DApps) and smart contract development. With over 5 years of experience, I've honed my skills across various blockchain platforms, focusing on innovative solutions for decentralized governance and operational efficiency.
+I'm _Amalendu Suresh_, a seasoned blockchain developer specializing in building decentralized applications (DApps) and smart contract development. With over 5 years of experience, I've honed my skills across various blockchain platforms, focusing on innovative solutions for decentralized governance and operational efficiency.
 
 * 🔭 I’m currently working on StakeSphere's Infrastructure DAO, where I'm developing and optimizing advanced staking contracts to enhance decentralized governance and operational efficiency. This work involves deep technical skills in Solidity, smart contract security, and multi-chain integration.
 
