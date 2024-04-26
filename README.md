@@ -9,18 +9,22 @@ I'm *Amalendu Suresh*, a seasoned blockchain developer specializing in building 
 * 🌱 I’m also deeply involved in developing the Staking Infra DeFi Platform for Institutions, aimed at providing robust decentralized finance services to institutional clients. This project focuses on scalability, security, and seamless integration with existing financial systems.
 
 * 👨‍💻 Expanding my expertise into Bitcoin L2 solutions and modular blockchains to enhance transaction throughput and flexibility while maintaining robust security.
-🌱 I’m currently learning frontend development(React), crypto space and NFTs
 
-👯 I’m good in Hyperledger Fabric,Ethereum,Smart Contracts
+* 🚀 Engaged in deep integration of smart contracts and Web3 infrastructure to support more complex applications and services directly on the blockchain.
 
-💬 Ask me about Blockchain, Crypto, Cyber Security 
+* 👯 I’m looking to collaborate on projects that focus on DeFi innovations and blockchain scalability challenges.
 
-📫 How to reach me amalendusuresh95@gmail.com
+* 🤔 I’m looking for help with understanding the newest consensus protocols in the blockchain space.
 
-📄 Know about my experiences www.linkedin.com/in/amalendu-s-23a680130
+*  💬 Ask me about L1 and L2 blockchains, staking mechanisms, and developing multi-chain applications.
 
-⚡ Tweet me on https://twitter.com/palakkatil
+*  📫 How to reach me amalendusuresh95@gmail.com
 
-🎨 Read my articles on https://medium.com/@amalenduvishnu
+*  📄 Know about my experiences www.linkedin.com/in/amalendu-s-23a680130
 
+*  ⚡ Tweet me on https://twitter.com/palakkatil
+
+*  🎨 Read my articles on https://medium.com/@amalenduvishnu
+
+Solidity | Ethereum | Hyperledger Fabric | Binance Smart Chain | Chainlink | Filecoin | Truffle | Hardhat | Web3.js | Ethers.js | Bitcoin L2 Solutions
 
