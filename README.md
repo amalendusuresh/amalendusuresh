@@ -4,7 +4,7 @@
 ## About Me:
 I'm *Amalendu Suresh*, a seasoned blockchain developer specializing in building decentralized applications (DApps) and smart contract development. With over 5 years of experience, I've honed my skills across various blockchain platforms, focusing on innovative solutions for decentralized governance and operational efficiency.
 
-* 🔭 I’m currently working on StakeSphere's Infrastructure DAO, where I'm developing and optimizing advanced staking contracts to enhance decentralized governance and operational efficiency. This work involves deep technical skills in Solidity, smart contract security, and multi-chain integration.
+* 🔭 I’m currently working on DEX and Launchpad projects, building decentralized exchange protocols and token launch mechanisms that emphasize high throughput, security, and user-centric design. Special focus on gas optimization to reduce user transaction costs and improve scalability.
 
 * 🌱 I’m also deeply involved in developing the Staking Infra DeFi Platform for Institutions, aimed at providing robust decentralized finance services to institutional clients. This project focuses on scalability, security, and seamless integration with existing financial systems.
 
@@ -26,5 +26,16 @@ I'm *Amalendu Suresh*, a seasoned blockchain developer specializing in building 
 
 *  🎨 Read my articles on https://medium.com/@amalenduvishnu
 
-Solidity | Ethereum | Hyperledger Fabric | Binance Smart Chain | Chainlink | Filecoin | Truffle | Hardhat | Web3.js | Ethers.js | Bitcoin L2 Solutions
+*  🚀 Previously Worked On:
+
+StakeSphere's Infrastructure DAO – Developed and optimized advanced staking contracts to enhance decentralized governance and operational efficiency. Involved deep work in Solidity, smart contract security, and multi-chain integration.
+
+Staking Applications – Built secure, scalable staking DApps tailored for both institutional and retail users.
+
+Filecoin-based Solutions – Developed smart contracts and integrations around decentralized storage protocols.
+
+Ethereum Smart Contracts – Created and deployed a range of smart contracts with a focus on gas efficiency, security, and real-world utility.
+
+Tech Stack:
+Solidity | Ethereum | Hyperledger Fabric | Binance Smart Chain | Chainlink | Filecoin | Truffle | Hardhat | Web3.js | Ethers.js | Bitcoin L2 Solutions | Gas Optimization
 
