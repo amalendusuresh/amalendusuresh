@@ -28,7 +28,7 @@ I'm *Amalendu Suresh*, a seasoned blockchain developer specializing in building 
 
 *  🚀 Previously Worked On:
 
-StakeSphere's Infrastructure DAO – Developed and optimized advanced staking contracts to enhance decentralized governance and operational efficiency. Involved deep work in Solidity, smart contract security, and multi-chain integration.
+**StakeSphere's Infrastructure DAO – Developed and optimized advanced staking contracts to enhance decentralized governance and operational efficiency. Involved deep work in Solidity, smart contract security, and multi-chain integration.
 
 Staking Applications – Built secure, scalable staking DApps tailored for both institutional and retail users.
 
