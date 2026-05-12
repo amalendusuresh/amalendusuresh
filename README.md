@@ -6,6 +6,7 @@ Building DEXs, launchpads, and institutional staking infrastructure from Dubai �
 
 ---
 
+
 ## 🧠 About Me
 
 I'm a blockchain engineer with **5+ years** of hands-on experience shipping production smart contracts and decentralized applications. My focus is **DeFi protocols, staking infrastructure, and gas-optimized Solidity** — with a growing specialization in **Bitcoin L2s and modular blockchains**.
@@ -26,6 +27,7 @@ I'm a blockchain engineer with **5+ years** of hands-on experience shipping prod
 
 ---
 
+
 ## 📫 Connect With Me
 
 📧 **Email:** amalendusuresh95@gmail.com
@@ -37,6 +39,7 @@ I'm a blockchain engineer with **5+ years** of hands-on experience shipping prod
 ✍️ **Medium:** [@amalenduvishnu](https://medium.com/@amalenduvishnu)
 
 ---
+
 
 ## 🚀 Featured Work
 
@@ -80,6 +83,7 @@ A range of production contracts focused on gas efficiency, security audits, and 
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 **Languages:** Solidity · JavaScript · TypeScript · Node.js · Go
@@ -92,19 +96,14 @@ A range of production contracts focused on gas efficiency, security audits, and 
 
 ---
 
-## 📊 GitHub Stats
 
-![Amalendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalendusuresh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalendusuresh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
 
 ## ✍️ Writing
 
 I write about smart contracts, DeFi, and blockchain scalability on [Medium](https://medium.com/@amalenduvishnu).
 
 ---
+
 
 ## 🤝 Let's Build
 
