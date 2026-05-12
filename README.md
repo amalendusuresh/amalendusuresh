@@ -1,41 +1,69 @@
+Hi, I'm Amalendu Suresh 👋
 
-# Welcome to My GitHub! 👋
+Blockchain Engineer · Solidity · DeFi · Smart Contract Security
+Building DEXs, launchpads, and institutional staking infrastructure from Dubai 🇦🇪
 
-## About Me:
-I'm *Amalendu Suresh*, a seasoned blockchain developer specializing in building decentralized applications (DApps) and smart contract development. With over 5 years of experience, I've honed my skills across various blockchain platforms, focusing on innovative solutions for decentralized governance and operational efficiency.
+🧠 About Me
+I'm a blockchain engineer with 5+ years of hands-on experience shipping production smart contracts and decentralized applications. My focus is DeFi protocols, staking infrastructure, and gas-optimized Solidity — with a growing specialization in Bitcoin L2s and modular blockchains.
 
-* 🔭 I’m currently working on DEX and Launchpad projects, building decentralized exchange protocols and token launch mechanisms that emphasize high throughput, security, and user-centric design. Special focus on gas optimization to reduce user transaction costs and improve scalability.
+🔭 Currently building a DEX + Launchpad protocol with a focus on high throughput, MEV resistance, and gas efficiency
+🏛️ Designing an Institutional Staking DeFi Platform with custody integrations and slashing-aware accounting
+🧪 Researching Bitcoin L2 architectures (BitVM, sovereign rollups) and modular DA layers
+🚀 Working on deep integration of smart contracts with Web3 infrastructure for complex on-chain services
+🤝 Open to collaborate on DeFi innovations, protocol audits, and blockchain scalability
+💬 Ask me about L1/L2 blockchains, AMM design, staking mechanics, and multi-chain deployments
+📍 Based in Dubai, UAE — available for remote contract & advisory work
 
-* 🌱 I’m also deeply involved in developing the Staking Infra DeFi Platform for Institutions, aimed at providing robust decentralized finance services to institutional clients. This project focuses on scalability, security, and seamless integration with existing financial systems.
+📫 Connect With Me
 
-* 👨‍💻 Expanding my expertise into Bitcoin L2 solutions and modular blockchains to enhance transaction throughput and flexibility while maintaining robust security.
+✉️ Email: amalendusuresh95@gmail.com
+💼 LinkedIn: amalendu-blockchain
+🐦 X / Twitter: @palakkatil
+✍️ Medium: @amalenduvishnu
 
-* 🚀 Engaged in deep integration of smart contracts and Web3 infrastructure to support more complex applications and services directly on the blockchain.
+🚀 Featured Work
 
-* 👯 I’m looking to collaborate on projects that focus on DeFi innovations and blockchain scalability challenges.
+StakeSphere — Infrastructure DAO
+Advanced staking and governance contracts with multi-chain integration. Deep work in Solidity, smart contract security, and slashing-resistant reward accounting.
+Stack: Solidity · Hardhat · OpenZeppelin Governor · The Graph
+🔗 Repo · Docs
 
-* 🤔 I’m looking for help with understanding the newest consensus protocols in the blockchain space.
+Institutional Staking Platform
+Custody-aware DeFi staking for institutional clients with role-based access, on-chain attestations, and pause/upgrade safety patterns.
+Stack: Solidity · UUPS Proxies · Chainlink Oracles · TypeScript SDK
+🔗 Repo · Case Study
 
-*  💬 Ask me about L1 and L2 blockchains, staking mechanisms, and developing multi-chain applications.
+DEX & Launchpad Protocol
+AMM with gas-optimized swap logic and a token launchpad supporting fair launches, vesting schedules, and anti-bot mechanics.
+Stack: Solidity · Foundry · Ethers.js · React
+🔗 Repo · Demo
 
-*  📫 How to reach me amalendusuresh95@gmail.com
+Filecoin Storage Integrations
+Smart contracts and middleware bridging on-chain logic with decentralized storage deals.
+Stack: Solidity · FVM · IPFS · Node.js
+🔗 Repo
 
-*  📄 Know about my experiences www.linkedin.com/in/amalendu-s-23a680130
+Ethereum Smart Contracts
+A range of production contracts focused on gas efficiency, security audits, and real-world utility.
+Stack: Solidity · Hardhat · OpenZeppelin
+🔗 Repo
 
-*  ⚡ Tweet me on https://twitter.com/palakkatil
 
-*  🎨 Read my articles on https://medium.com/@amalenduvishnu
+🛠️ Tech Stack
+Languages
+Solidity · JavaScript · TypeScript · Node.js · Go
+Chains & Protocols
+Ethereum · BNB Chain · Polygon · Hyperledger Fabric · Bitcoin L2 · Chainlink · Filecoin
+Dev Tooling
+Hardhat · Foundry · Truffle · Ethers.js · Web3.js · IPFS · The Graph · OpenZeppelin
+Focus Areas
+Gas Optimization · Smart Contract Security · AMM Design · Staking Mechanics · Multi-Chain Deployments
 
-## 🚀 Previously Worked On:
 
-1. **StakeSphere's Infrastructure DAO** – Developed and optimized advanced staking contracts to enhance decentralized governance and operational efficiency. Involved deep work in Solidity, smart contract security, and multi-chain integration.
+✍️ Writing
+I write about smart contracts, DeFi, and blockchain scalability on Medium.
 
-2. **Staking Applications** – Built secure, scalable staking DApps tailored for both institutional and retail users.
+🤝 Let's Build
+Open to freelance smart contract development, protocol audits, and advisory engagements. If you're building in DeFi, staking, or Bitcoin L2 — let's talk.
 
-3. **Filecoin-based Solutions** – Developed smart contracts and integrations around decentralized storage protocols.
-
-4. **Ethereum Smart Contracts** – Created and deployed a range of smart contracts with a focus on gas efficiency, security, and real-world utility.
-
-## Tech Stack:
-Solidity | Ethereum | Hyperledger Fabric | Binance Smart Chain | Chainlink | Filecoin | Truffle | Hardhat | Web3.js | Ethers.js | Bitcoin L2 Solutions | Gas Optimization
-
+"Code is law — but only if it's audited, tested, and gas-optimized."
