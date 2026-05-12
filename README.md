@@ -8,7 +8,6 @@ Building DEXs, launchpads, and institutional staking infrastructure from Dubai �
 
 
 ## 🧠 About Me
-
 I'm a blockchain engineer with **5+ years** of hands-on experience shipping production smart contracts and decentralized applications. My focus is **DeFi protocols, staking infrastructure, and gas-optimized Solidity** — with a growing specialization in **Bitcoin L2s and modular blockchains**.
 
 🔭 Currently building a **DEX + Launchpad protocol** with focus on high throughput, MEV resistance, and gas efficiency
