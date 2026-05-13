@@ -10,7 +10,6 @@ Building DEXs, launchpads, and institutional staking infrastructure from Dubai �
 ---
 
 
-
 ## 🧠 About Me
 I'm a blockchain engineer with **5+ years** of hands-on experience shipping production smart contracts and decentralized applications. My focus is **DeFi protocols, staking infrastructure, and gas-optimized Solidity** — with a growing specialization in **Bitcoin L2s and modular blockchains**.
 
@@ -108,6 +107,9 @@ I write about smart contracts, DeFi, and blockchain scalability on [Medium](http
 Open to **freelance smart contract development, protocol audits, and advisory engagements**. If you're building in DeFi, staking, or Bitcoin L2 — let's talk.
 
 
-📩 amalendusuresh95@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/amalendu-blockchain/) · 🌐 [Portfolio](https://amalendusuresh.github.io/) · 📄 [Resume](https://github.com/amalendusuresh/Professional_Profile)
+📩 amalendusuresh95@gmail.com · 
+💼 [LinkedIn](https://www.linkedin.com/in/amalendu-blockchain/) · 
+🌐 [Portfolio](https://amalendusuresh.github.io/) · 
+📄 [Resume](https://github.com/amalendusuresh/Professional_Profile)
 
 > *"Code is law — but only if it's audited, tested, and gas-optimized."*
