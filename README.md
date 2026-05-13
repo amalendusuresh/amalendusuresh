@@ -1,10 +1,14 @@
 # Hi, I'm Amalendu Suresh 👋
+
 ### Blockchain Engineer · Solidity · DeFi · Smart Contract Security
 Building DEXs, launchpads, and institutional staking infrastructure from Dubai 🇦🇪
 
 🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
+📄 **Resume & CV:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
 
 ---
+
+
 ## 🧠 About Me
 I'm a blockchain engineer with **5+ years** of hands-on experience shipping production smart contracts and decentralized applications. My focus is **DeFi protocols, staking infrastructure, and gas-optimized Solidity** — with a growing specialization in **Bitcoin L2s and modular blockchains**.
 
@@ -23,9 +27,13 @@ I'm a blockchain engineer with **5+ years** of hands-on experience shipping prod
 📍 Based in **Dubai, UAE** — available for remote contract & advisory work
 
 ---
+
+
 ## 📫 Connect With Me
 
 🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
+
+📄 **Resume & CV:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
 
 📧 **Email:** amalendusuresh95@gmail.com
 
@@ -36,6 +44,8 @@ I'm a blockchain engineer with **5+ years** of hands-on experience shipping prod
 ✍️ **Medium:** [@amalenduvishnu](https://medium.com/@amalenduvishnu)
 
 ---
+
+
 ## 🚀 Featured Work
 
 ### StakeSphere — Infrastructure DAO
@@ -72,6 +82,8 @@ A range of production contracts focused on gas efficiency, security audits, and 
 **Stack:** Solidity · Hardhat · OpenZeppelin
 
 ---
+
+
 ## 🛠️ Tech Stack
 **Languages:** Solidity · JavaScript · TypeScript · Node.js · Go
 
@@ -82,13 +94,18 @@ A range of production contracts focused on gas efficiency, security audits, and 
 **Focus Areas:** Gas Optimization · Smart Contract Security · AMM Design · Staking Mechanics · Multi-Chain Deployments
 
 ---
+
+
 ## ✍️ Writing
 I write about smart contracts, DeFi, and blockchain scalability on [Medium](https://medium.com/@amalenduvishnu).
 
 ---
+
+
 ## 🤝 Let's Build
 Open to **freelance smart contract development, protocol audits, and advisory engagements**. If you're building in DeFi, staking, or Bitcoin L2 — let's talk.
 
-📩 amalendusuresh95@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/amalendu-blockchain/) · 🌐 [Portfolio](https://amalendusuresh.github.io/)
+
+📩 amalendusuresh95@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/amalendu-blockchain/) · 🌐 [Portfolio](https://amalendusuresh.github.io/) · 📄 [Resume](https://github.com/amalendusuresh/Professional_Profile)
 
 > *"Code is law — but only if it's audited, tested, and gas-optimized."*
