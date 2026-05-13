@@ -4,6 +4,7 @@
 Building DEXs, launchpads, and institutional staking infrastructure from Dubai 🇦🇪
 
 🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
+
 📄 **Resume & CV:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
 
 ---
