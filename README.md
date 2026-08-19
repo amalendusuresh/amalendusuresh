@@ -1,7 +1,11 @@
 # Hi, I'm Amalendu Suresh 👋
 
-### Blockchain Engineer · Solidity · DeFi · Smart Contract Security
-Building DEXs, launchpads, and institutional staking infrastructure from Dubai 🇦🇪
+### Software Engineer · Blockchain · Technical Documentation · Solution Design · Security
+
+Software engineer with 5+ years of experience in blockchain and Web3, now also building a portfolio around **technical documentation, SaaS architecture, API documentation, security-focused system design, and developer documentation**.
+
+📍 Dubai, UAE  
+📧 amalendusuresh95@gmail.com
 
 🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
 
@@ -9,107 +13,218 @@ Building DEXs, launchpads, and institutional staking infrastructure from Dubai �
 
 ---
 
+## 👩‍💻 About Me
 
-## 🧠 About Me
-I'm a blockchain engineer with **5+ years** of hands-on experience shipping production smart contracts and decentralized applications. My focus is **DeFi protocols, staking infrastructure, and gas-optimized Solidity** — with a growing specialization in **Bitcoin L2s and modular blockchains**.
+I'm a software engineer with 5+ years of experience working across blockchain applications, smart contracts, backend integrations, and Web3 infrastructure.
 
-🔭 Currently building a **DEX + Launchpad protocol** with focus on high throughput, MEV resistance, and gas efficiency
+My technical background includes:
 
-🏛️ Designing an **Institutional Staking DeFi Platform** with custody integrations and slashing-aware accounting
+- Blockchain & smart contract development
+- REST API and backend systems
+- Technical documentation
+- System and solution architecture documentation
+- Database modelling
+- Role-Based Access Control (RBAC)
+- Multi-tenant SaaS concepts
+- Security-focused system design
+- AWS architecture documentation
+- Test planning and workflow modelling
 
-🧪 Researching **Bitcoin L2 architectures** (BitVM, sovereign rollups) and modular DA layers
+I'm particularly interested in work that sits between **engineering, documentation, architecture, and security** — turning complex technical systems into documentation that developers, stakeholders, and teams can actually use.
 
-🚀 Working on deep integration of smart contracts with Web3 infrastructure for complex on-chain services
-
-🤝 Open to collaborate on DeFi innovations, protocol audits, and blockchain scalability
-
-💬 Ask me about L1/L2 blockchains, AMM design, staking mechanics, and multi-chain deployments
-
-📍 Based in **Dubai, UAE** — available for remote contract & advisory work
-
----
-
-
-## 📫 Connect With Me
-
-🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
-
-📄 **Resume & CV:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
-
-📧 **Email:** amalendusuresh95@gmail.com
-
-💼 **LinkedIn:** [amalendu-blockchain](https://www.linkedin.com/in/amalendu-blockchain/)
-
-🐦 **X / Twitter:** [@palakkatil](https://twitter.com/palakkatil)
-
-✍️ **Medium:** [@amalenduvishnu](https://medium.com/@amalenduvishnu)
+📍 Based in **Dubai, UAE** and open to remote freelance and contract opportunities.
 
 ---
 
+# 📚 Technical Documentation & Solution Design
 
-## 🚀 Featured Work
+## ⭐ FlowDesk — B2B SaaS Technical Documentation Portfolio
+
+A complete technical documentation and solution-design case study for a conceptual multi-tenant B2B project-management SaaS platform.
+
+The project covers the system from requirements through architecture, security and testing.
+
+### Deliverables
+
+- System specification
+- Functional & non-functional requirements
+- RBAC and permission model
+- Multi-tenant architecture
+- System architecture diagrams
+- REST API documentation
+- PostgreSQL database schema
+- Entity Relationship Diagram
+- Task and milestone workflow diagrams
+- AWS deployment architecture
+- Security design
+- Test plan
+- Local development documentation
+
+### Architecture
+
+**Frontend:** Next.js  
+**Backend:** Node.js REST API  
+**Database:** PostgreSQL  
+**Cloud:** AWS  
+**Storage:** Amazon S3  
+**Deployment:** AWS Amplify + ECS/Fargate + RDS  
+**Monitoring:** Amazon CloudWatch
+
+### Security Concepts
+
+The design includes:
+
+- Authentication
+- RBAC
+- Tenant isolation
+- Resource-level authorization
+- IDOR / broken access-control protection
+- Workflow-state validation
+- Secrets management
+- Secure file access
+- Audit logging
+
+👉 **[View the FlowDesk Technical Documentation Repository](https://github.com/amalendusuresh/flowdesk-technical-documentation)**
+
+> FlowDesk is a conceptual portfolio case study demonstrating technical documentation and solution-design capabilities. It is not presented as a deployed production application.
+
+---
+
+# ⛓️ Blockchain Engineering
+
+My core engineering background is in blockchain and Web3 development.
+
+Areas I've worked with include:
+
+- Smart contracts
+- DeFi protocols
+- Staking infrastructure
+- Blockchain backend integrations
+- Wallet and transaction workflows
+- Multi-chain systems
+- Decentralized storage
+- Smart contract security
+
+---
+
+## 🚀 Selected Blockchain Work
 
 ### StakeSphere — Infrastructure DAO
-Advanced staking and governance contracts with multi-chain integration. Deep work in Solidity, smart contract security, and slashing-resistant reward accounting.
+
+Staking and governance architecture with multi-chain integration and Solidity-based governance components.
 
 **Stack:** Solidity · Hardhat · OpenZeppelin Governor · The Graph
 
 ---
 
 ### Institutional Staking Platform
-Custody-aware DeFi staking for institutional clients with role-based access, on-chain attestations, and pause/upgrade safety patterns.
 
-**Stack:** Solidity · UUPS Proxies · Chainlink Oracles · TypeScript SDK
+Architecture for custody-aware DeFi staking with role-based access, on-chain attestations and upgradeability patterns.
+
+**Stack:** Solidity · UUPS Proxies · Chainlink Oracles · TypeScript
 
 ---
 
 ### DEX & Launchpad Protocol
-AMM with gas-optimized swap logic and a token launchpad supporting fair launches, vesting schedules, and anti-bot mechanics.
+
+AMM and token-launchpad concepts including swap logic, vesting workflows and token-launch mechanisms.
 
 **Stack:** Solidity · Foundry · Ethers.js · React
 
 ---
 
 ### Filecoin Storage Integrations
-Smart contracts and middleware bridging on-chain logic with decentralized storage deals.
+
+Integration of blockchain application logic with decentralized storage workflows.
 
 **Stack:** Solidity · FVM · IPFS · Node.js
 
 ---
 
-### Ethereum Smart Contracts
-A range of production contracts focused on gas efficiency, security audits, and real-world utility.
+# 🛠️ Technical Skills
 
-**Stack:** Solidity · Hardhat · OpenZeppelin
+### Software & Backend
+
+Node.js · JavaScript · TypeScript · REST APIs · Git · GitHub
+
+### Blockchain
+
+Solidity · Ethereum · BNB Chain · Polygon · Hyperledger Fabric · Filecoin · IPFS
+
+### Smart Contract Tooling
+
+Hardhat · Foundry · Truffle · Ethers.js · Web3.js · OpenZeppelin
+
+### Documentation & Architecture
+
+Technical Writing · System Specifications · API Documentation · Architecture Diagrams · Database Modelling · ER Diagrams · Mermaid · Developer Documentation
+
+### Security
+
+RBAC · Authentication & Authorization · Tenant Isolation · IDOR / Broken Access Control · Secrets Management · Audit Logging · Security Requirements
+
+### Cloud & Infrastructure
+
+AWS Architecture · Amazon S3 · Amazon RDS · ECS/Fargate · AWS Amplify · Secrets Manager · CloudWatch
 
 ---
 
+# 🎯 Current Focus
 
-## 🛠️ Tech Stack
-**Languages:** Solidity · JavaScript · TypeScript · Node.js · Go
+I'm currently expanding my work in:
 
-**Chains & Protocols:** Ethereum · BNB Chain · Polygon · Hyperledger Fabric · Bitcoin L2 · Chainlink · Filecoin
+**Technical Documentation**
 
-**Dev Tooling:** Hardhat · Foundry · Truffle · Ethers.js · Web3.js · IPFS · The Graph · OpenZeppelin
+Turning software requirements, APIs, databases and architecture into structured developer and stakeholder documentation.
 
-**Focus Areas:** Gas Optimization · Smart Contract Security · AMM Design · Staking Mechanics · Multi-Chain Deployments
+**Solution Design**
+
+Documenting SaaS architectures, workflows, permissions, integrations and deployment models.
+
+**Security-Focused Documentation**
+
+Connecting security requirements with architecture, APIs, authorization controls and test cases.
+
+**Blockchain Engineering**
+
+Continuing to apply my existing blockchain and Web3 engineering experience to technical projects.
 
 ---
 
+# 💼 Freelance / Contract Work
 
-## ✍️ Writing
-I write about smart contracts, DeFi, and blockchain scalability on [Medium](https://medium.com/@amalenduvishnu).
+I'm interested in freelance and contract projects involving:
+
+- Technical documentation
+- API documentation
+- Developer documentation
+- SaaS system documentation
+- Architecture documentation
+- Software requirements documentation
+- Database and workflow documentation
+- Security documentation
+- Blockchain technical documentation
+
+If you have an existing software product with incomplete, outdated or scattered documentation, I can help turn the technical information into a structured documentation set.
 
 ---
 
+# ✍️ Writing
 
-## 🤝 Let's Build
-Open to **freelance smart contract development, protocol audits, and advisory engagements**. If you're building in DeFi, staking, or Bitcoin L2 — let's talk.
+I write about software, blockchain and technical topics on [Medium](https://medium.com/@amalenduvishnu).
 
+---
 
-📩 amalendusuresh95@gmail.com · 
-💼 [LinkedIn](https://www.linkedin.com/in/amalendu-blockchain/) · 
-🌐 [Portfolio](https://amalendusuresh.github.io/) · 
-📄 [Resume](https://github.com/amalendusuresh/Professional_Profile)
+# 📫 Connect With Me
 
-> *"Code is law — but only if it's audited, tested, and gas-optimized."*
+📧 **Email:** amalendusuresh95@gmail.com
+
+💼 **LinkedIn:** [amalendu-blockchain](https://www.linkedin.com/in/amalendu-blockchain/)
+
+🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
+
+📄 **Resume:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
+
+✍️ **Medium:** [@amalenduvishnu](https://medium.com/@amalenduvishnu)
+
+🐦 **X / Twitter:** [@palakkatil](https://twitter.com/palakkatil)
