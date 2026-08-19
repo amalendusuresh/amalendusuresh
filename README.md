@@ -7,6 +7,7 @@ Software engineer with 5+ years of experience in blockchain and Web3, now also b
 📍 Dubai, UAE  
 📧 amalendusuresh95@gmail.com
 
+
 🌐 **Portfolio:** [amalendusuresh.github.io](https://amalendusuresh.github.io/)
 
 📄 **Resume & CV:** [Professional_Profile](https://github.com/amalendusuresh/Professional_Profile)
